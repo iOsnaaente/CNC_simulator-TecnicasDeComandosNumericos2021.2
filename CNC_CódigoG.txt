@@ -2,7 +2,7 @@
 $Mill
 $Millimeters
 
-(Troca da broca para fresa na linha 1570)
+(Troca da broca para fresa na linha 2333)
 (Broca de fresa - Ponta chata de 0.5mm  )
 (Broca de furo  - Ponta fina de 0.75mm  )
 
